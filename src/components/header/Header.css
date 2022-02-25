@@ -1,5 +1,13 @@
 .header-cont {
   width: 100%;
   height: 10vh;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
   border: 1px solid #000;
+}
+
+.header-cont_background-black{
+	background: #000;
+	color: white;
 }
