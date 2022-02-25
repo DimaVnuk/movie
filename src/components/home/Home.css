@@ -1,0 +1,49 @@
+.home-cont {
+  width: 100%;
+
+  display: flex;
+  justify-content: center;
+  border: 1px solid red;
+}
+
+.main-center-block {
+  width: 80%;
+
+  border: 1px solid blue;
+}
+.main-center-block_wrap {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+
+
+
+.cont-img{
+width: 250px;
+height: 320px;
+display: flex;
+justify-content: center;
+margin: 10px;
+border: 1px solid #000;
+}
+
+.img-movie {
+  width: 200px;
+  margin: 10px;
+}
+
+.title-movie-btn {
+  width: 200px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.cont-btn {
+  width: 270px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
